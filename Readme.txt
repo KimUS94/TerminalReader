@@ -10,3 +10,5 @@
 # git log
 # git remote add <name> <url>
 # git push -u --force <name> master
+
+# got remote -v
